@@ -1,3 +1,5 @@
+//arr is sorted than apply Binary Search
+
 function binarySearch(arr,element){
     let left=0;
     let right=arr.length-1;
